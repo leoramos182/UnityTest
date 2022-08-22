@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XqYCO4J1OE0l74wNiLk71vETR8GwxBWh6toG6Bx5u2XG/pxkp0xTPbhGWAKDWkqb0Whgn5jPafOAl1o2QarPUQ==",
+  "dgSpecHash": "K/Dbx26ne76jdg+V1jNZjuKbpK2BBS1Z+96bvzSvSsCWFAZbfPCy4/RM36q29ubHYQoSeg2p1bduAthqNI6+FA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Desktop\\UnityTest\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
